@@ -99,7 +99,7 @@ header {
 .quote {
     background-color: #E5E7EB;
     padding: 70px;
-    margin-bottom: 20px;
+    margin-bottom: 70px;
 }
 
 .quote blockquote {
@@ -125,6 +125,10 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px 40px;
+    max-width: 700px;
+    margin: 0 auto;
+    margin-bottom: 70px;
+    border-radius: 15px;
 }
 
 .cta-text h2 {
@@ -143,4 +147,15 @@ header {
     border-radius: 7px;
     cursor: pointer;
     border: 2px solid white;
+}
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    padding: 15px;
+}
+
+.footer p {
+    color: #E5E7EB;
+    font-size: 20px;
 }
