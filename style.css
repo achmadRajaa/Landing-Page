@@ -95,3 +95,25 @@ header {
     font-size: 16px;
     color: #1F2937;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 70px;
+}
+
+.quote blockquote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+    margin: 0;
+    text-align: center;
+}
+
+.quote cite {
+    display: block;
+    text-align: right;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+}
